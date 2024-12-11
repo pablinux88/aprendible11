@@ -11,34 +11,38 @@ class ProcessOrdersFile extends Command
 
     public function handle()
     {
-        $inputFilePath = storage_path('app/ordenes/CHEDRAUI.INF');
+        $directoryPath = storage_path('app/ordenes');
+        $inputFiles = glob("{$directoryPath}/*.INF"); // Obtiene todos los archivos .INF
 
-        if (!file_exists($inputFilePath)) {
-            $this->error("The file {$inputFilePath} does not exist.");
+        if (empty($inputFiles)) {
+            $this->error("No .INF files found in the directory: {$directoryPath}");
             return Command::FAILURE;
         }
 
-        $lines = file($inputFilePath, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-        if (!$lines || count($lines) <= 1) {
-            $this->error("The file {$inputFilePath} has no data or only one line.");
-            return Command::FAILURE;
-        }
+        foreach ($inputFiles as $inputFilePath) {
+            $this->info("Processing file: {$inputFilePath}");
 
-        $firstLineColumns = str_getcsv($lines[0]);
-        $firstColumn = $firstLineColumns[0] ?? null;
+            $lines = file($inputFilePath, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+            if (!$lines || count($lines) <= 1) {
+                $this->error("The file {$inputFilePath} has no data or only one line.");
+                continue;
+            }
 
-        if ($firstColumn === '007850 001') {
-            $this->info("Condition 1 met: {$firstColumn} Orden de Nadro");
-            $this->call('app:translate-nadro', ['filePath' => $inputFilePath]);
-        } elseif ($firstColumn === '010850 001') {
-            $this->info("Condition 2 met: {$firstColumn} Orden de Walmart");
-            $this->call('app:translate-walmart', ['filePath' => $inputFilePath]);
-        } elseif ($firstColumn === '026850 002') {
-            $this->info("Condition 3 met: {$firstColumn} Orden de Chedraui");
-            $this->call('app:translate-chedraui', ['filePath' => $inputFilePath]);
-        } else {
-            $this->warn("No conditions met for: {$firstColumn}");
+            $firstLineColumns = str_getcsv($lines[0]);
+            $firstColumn = $firstLineColumns[0] ?? null;
 
+            if ($firstColumn === '007850 001') {
+                $this->info("Condition 1 met: {$firstColumn} Orden de Nadro");
+                $this->call('app:translate-nadro', ['filePath' => $inputFilePath]);
+            } elseif ($firstColumn === '010850 001') {
+                $this->info("Condition 2 met: {$firstColumn} Orden de Walmart");
+                $this->call('app:translate-walmart', ['filePath' => $inputFilePath]);
+            } elseif ($firstColumn === '026850 002') {
+                $this->info("Condition 3 met: {$firstColumn} Orden de Chedraui");
+                $this->call('app:translate-chedraui', ['filePath' => $inputFilePath]);
+            } else {
+                $this->warn("No conditions met for: {$firstColumn}");
+            }
         }
 
         return Command::SUCCESS;

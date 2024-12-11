@@ -29,7 +29,7 @@ class TranslateWalmart extends Command
         $customer = 'DF';
         $typeTrans = '100';
         $typeTransLine = '300';
-        $tpCode = 'N0421';
+        $tpCode = 'N0420';
         $trxCode = '850';
 
         $previousOrder = null;

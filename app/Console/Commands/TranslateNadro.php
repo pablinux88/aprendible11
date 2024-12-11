@@ -23,7 +23,7 @@ class TranslateNadro extends Command
             return Command::FAILURE;
         }
 
-        $outputFilePath = storage_path('app/ordenes/output.txt');
+        $outputFilePath = storage_path('app/ordenes/850_EXP.CIM');
         $outputData = [];
 
         $customer = 'DF';

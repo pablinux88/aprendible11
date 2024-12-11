@@ -1,0 +1,1851 @@
+
+  2024-12-11 15:28:38 Running ['artisan' app:process-orders-file]  275.67ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:29:30 Running ['artisan' app:process-orders-file]  118.44ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:30:30 Running ['artisan' app:process-orders-file]  121.66ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:31:30 Running ['artisan' app:process-orders-file]  137.02ms FAIL
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:32:30 Running ['artisan' app:process-orders-file]  118.90ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:33:30 Running ['artisan' app:process-orders-file]  116.17ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:34:30 Running ['artisan' app:process-orders-file]  113.95ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:35:30 Running ['artisan' app:process-orders-file]  113.75ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:36:30 Running ['artisan' app:process-orders-file]  131.51ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:37:30 Running ['artisan' app:process-orders-file]  118.89ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:38:30 Running ['artisan' app:process-orders-file]  115.10ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:39:30 Running ['artisan' app:process-orders-file]  122.47ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:40:30 Running ['artisan' app:process-orders-file]  116.44ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:41:30 Running ['artisan' app:process-orders-file]  119.24ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:42:30 Running ['artisan' app:process-orders-file]  135.58ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:43:30 Running ['artisan' app:process-orders-file]  120.49ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:44:30 Running ['artisan' app:process-orders-file]  129.70ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:45:30 Running ['artisan' app:process-orders-file]  115.76ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:46:30 Running ['artisan' app:process-orders-file]  116.23ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:47:32 Running ['artisan' app:process-orders-file]  744.30ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:48:30 Running ['artisan' app:process-orders-file]  136.40ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:49:30 Running ['artisan' app:process-orders-file]  137.97ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:50:30 Running ['artisan' app:process-orders-file]  125.68ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:51:30 Running ['artisan' app:process-orders-file]  122.49ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:52:30 Running ['artisan' app:process-orders-file]  114.77ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:53:30 Running ['artisan' app:process-orders-file]  113.40ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:54:30 Running ['artisan' app:process-orders-file]  112.96ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:55:30 Running ['artisan' app:process-orders-file]  118.89ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:56:31 Running ['artisan' app:process-orders-file]  192.34ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:57:30 Running ['artisan' app:process-orders-file]  127.84ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:58:30 Running ['artisan' app:process-orders-file]  117.42ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 15:59:30 Running ['artisan' app:process-orders-file]  112.97ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:00:30 Running ['artisan' inspire] .............. 116.73ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' inspire > '/dev/null' 2>&1  
+  2024-12-11 16:00:30 Running ['artisan' app:process-orders-file]  101.55ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:01:30 Running ['artisan' app:process-orders-file]  119.73ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:02:30 Running ['artisan' app:process-orders-file]  117.07ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:03:30 Running ['artisan' app:process-orders-file]  119.30ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:04:30 Running ['artisan' app:process-orders-file]  134.14ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:05:30 Running ['artisan' app:process-orders-file]  116.16ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:06:33 Running ['artisan' app:process-orders-file]  744.19ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:07:30 Running ['artisan' app:process-orders-file]  187.73ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:08:30 Running ['artisan' app:process-orders-file]  270.29ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:09:30 Running ['artisan' app:process-orders-file]  187.22ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:10:31 Running ['artisan' app:process-orders-file]  178.97ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:11:30 Running ['artisan' app:process-orders-file]  140.06ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:12:30 Running ['artisan' app:process-orders-file]  163.14ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:13:30 Running ['artisan' app:process-orders-file]  148.96ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:14:30 Running ['artisan' app:process-orders-file]  142.82ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:15:31 Running ['artisan' app:process-orders-file]  234.48ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:16:30 Running ['artisan' app:process-orders-file]  119.63ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:17:30 Running ['artisan' app:process-orders-file]  138.39ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:18:31 Running ['artisan' app:process-orders-file]  433.22ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:19:30 Running ['artisan' app:process-orders-file]  157.71ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:20:32 Running ['artisan' app:process-orders-file]  265.95ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:21:31 Running ['artisan' app:process-orders-file]  149.57ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:22:30 Running ['artisan' app:process-orders-file]  130.62ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:23:30 Running ['artisan' app:process-orders-file]  143.70ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:24:37 Running ['artisan' app:process-orders-file]  517.63ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:25:30 Running ['artisan' app:process-orders-file]  123.53ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:26:30 Running ['artisan' app:process-orders-file]  124.42ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:27:31 Running ['artisan' app:process-orders-file]  180.50ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:28:30 Running ['artisan' app:process-orders-file]  122.20ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:29:30 Running ['artisan' app:process-orders-file]  117.24ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:30:30 Running ['artisan' app:process-orders-file]  116.82ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:31:30 Running ['artisan' app:process-orders-file]  119.27ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:32:30 Running ['artisan' app:process-orders-file]  139.49ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:33:30 Running ['artisan' app:process-orders-file]  118.93ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:34:30 Running ['artisan' app:process-orders-file]  125.65ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:35:30 Running ['artisan' app:process-orders-file]  117.79ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:36:30 Running ['artisan' app:process-orders-file]  132.99ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:37:30 Running ['artisan' app:process-orders-file]  116.39ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:38:30 Running ['artisan' app:process-orders-file]  120.70ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:39:30 Running ['artisan' app:process-orders-file]  112.34ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:40:30 Running ['artisan' app:process-orders-file]  115.86ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:41:30 Running ['artisan' app:process-orders-file]  118.61ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:42:30 Running ['artisan' app:process-orders-file]  116.34ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:43:30 Running ['artisan' app:process-orders-file]  113.56ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:44:30 Running ['artisan' app:process-orders-file]  189.64ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:45:30 Running ['artisan' app:process-orders-file]  120.18ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:46:30 Running ['artisan' app:process-orders-file]  123.14ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:47:30 Running ['artisan' app:process-orders-file]  123.52ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:48:30 Running ['artisan' app:process-orders-file]  123.93ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:49:30 Running ['artisan' app:process-orders-file]  126.93ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:50:30 Running ['artisan' app:process-orders-file]  120.35ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:51:30 Running ['artisan' app:process-orders-file]  168.98ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:52:30 Running ['artisan' app:process-orders-file]  120.46ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:53:31 Running ['artisan' app:process-orders-file]  232.25ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:54:30 Running ['artisan' app:process-orders-file]  188.86ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:55:30 Running ['artisan' app:process-orders-file]  141.42ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:56:30 Running ['artisan' app:process-orders-file]  127.79ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:57:30 Running ['artisan' app:process-orders-file]  125.72ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:58:30 Running ['artisan' app:process-orders-file]  132.98ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 16:59:30 Running ['artisan' app:process-orders-file]  129.26ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:00:30 Running ['artisan' inspire] .............. 196.71ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' inspire > '/dev/null' 2>&1  
+  2024-12-11 17:00:31 Running ['artisan' app:process-orders-file]  122.82ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:01:30 Running ['artisan' app:process-orders-file]  122.07ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:02:30 Running ['artisan' app:process-orders-file]  116.61ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:03:30 Running ['artisan' app:process-orders-file]  136.86ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:04:30 Running ['artisan' app:process-orders-file]  156.62ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:05:33 Running ['artisan' app:process-orders-file]  359.25ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:06:31 Running ['artisan' app:process-orders-file]  113.93ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:09:42 Running ['artisan' app:process-orders-file]  124.42ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:10:30 Running ['artisan' app:process-orders-file]  110.92ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:11:30 Running ['artisan' app:process-orders-file]  135.88ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:12:30 Running ['artisan' app:process-orders-file]  119.26ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:13:30 Running ['artisan' app:process-orders-file]  114.62ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:14:30 Running ['artisan' app:process-orders-file]  138.99ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:15:30 Running ['artisan' app:process-orders-file]  119.31ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:16:30 Running ['artisan' app:process-orders-file]  120.04ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:17:30 Running ['artisan' app:process-orders-file]  115.08ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:18:30 Running ['artisan' app:process-orders-file]  128.53ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:19:30 Running ['artisan' app:process-orders-file]  112.26ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:20:30 Running ['artisan' app:process-orders-file]  116.89ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:21:30 Running ['artisan' app:process-orders-file]  111.18ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:22:30 Running ['artisan' app:process-orders-file]  120.96ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:23:30 Running ['artisan' app:process-orders-file]  111.81ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:24:30 Running ['artisan' app:process-orders-file]  117.81ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:25:30 Running ['artisan' app:process-orders-file]  174.74ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:26:30 Running ['artisan' app:process-orders-file]  114.19ms FAIL
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:27:30 Running ['artisan' app:process-orders-file]  127.32ms FAIL
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:28:30 Running ['artisan' app:process-orders-file]  124.88ms FAIL
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:29:30 Running ['artisan' app:process-orders-file]  126.23ms FAIL
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:30:30 Running ['artisan' app:process-orders-file]  116.18ms FAIL
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:31:30 Running ['artisan' app:process-orders-file]  113.29ms FAIL
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:32:30 Running ['artisan' app:process-orders-file]  112.38ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:33:30 Running ['artisan' app:process-orders-file]  109.48ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:34:30 Running ['artisan' app:process-orders-file]  116.25ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:35:30 Running ['artisan' app:process-orders-file]  115.54ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:36:30 Running ['artisan' app:process-orders-file]  115.82ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:37:30 Running ['artisan' app:process-orders-file]  109.08ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:38:30 Running ['artisan' app:process-orders-file]  119.27ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:39:30 Running ['artisan' app:process-orders-file]  109.79ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:40:30 Running ['artisan' app:process-orders-file]  117.33ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:41:30 Running ['artisan' app:process-orders-file]  132.88ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:42:30 Running ['artisan' app:process-orders-file]  108.18ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:43:30 Running ['artisan' app:process-orders-file]  114.06ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:44:30 Running ['artisan' app:process-orders-file]  109.56ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:45:30 Running ['artisan' app:process-orders-file]  113.99ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:46:30 Running ['artisan' app:process-orders-file]  114.11ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:47:30 Running ['artisan' app:process-orders-file]  116.30ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:48:30 Running ['artisan' app:process-orders-file]  112.52ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:49:30 Running ['artisan' app:process-orders-file]  110.03ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:50:30 Running ['artisan' app:process-orders-file]  111.60ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:51:30 Running ['artisan' app:process-orders-file]  116.78ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:52:30 Running ['artisan' app:process-orders-file]  111.28ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:53:30 Running ['artisan' app:process-orders-file]  110.59ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:54:30 Running ['artisan' app:process-orders-file]  117.36ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:55:30 Running ['artisan' app:process-orders-file]  110.95ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:56:30 Running ['artisan' app:process-orders-file]  111.83ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:57:30 Running ['artisan' app:process-orders-file]  117.01ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:58:30 Running ['artisan' app:process-orders-file]  112.42ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 17:59:30 Running ['artisan' app:process-orders-file]  112.53ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:00:30 Running ['artisan' inspire] .............. 118.70ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' inspire > '/dev/null' 2>&1  
+  2024-12-11 18:00:30 Running ['artisan' app:process-orders-file]  103.72ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:01:30 Running ['artisan' app:process-orders-file]  115.27ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:02:30 Running ['artisan' app:process-orders-file]  109.04ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:03:30 Running ['artisan' app:process-orders-file]  112.74ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:04:30 Running ['artisan' app:process-orders-file]  111.80ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:05:30 Running ['artisan' app:process-orders-file]  110.06ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:06:30 Running ['artisan' app:process-orders-file]  113.59ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:07:30 Running ['artisan' app:process-orders-file]  108.92ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:08:30 Running ['artisan' app:process-orders-file]  110.52ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:09:30 Running ['artisan' app:process-orders-file]  108.45ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:10:30 Running ['artisan' app:process-orders-file]  115.13ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:11:30 Running ['artisan' app:process-orders-file]  111.60ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:12:30 Running ['artisan' app:process-orders-file]  110.89ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:13:30 Running ['artisan' app:process-orders-file]  112.57ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:14:30 Running ['artisan' app:process-orders-file]  113.08ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:15:30 Running ['artisan' app:process-orders-file]  111.25ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:16:30 Running ['artisan' app:process-orders-file]  107.86ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:17:30 Running ['artisan' app:process-orders-file]  110.46ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:18:30 Running ['artisan' app:process-orders-file]  110.17ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:19:30 Running ['artisan' app:process-orders-file]  111.35ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:20:30 Running ['artisan' app:process-orders-file]  111.96ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:21:30 Running ['artisan' app:process-orders-file]  120.95ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:22:30 Running ['artisan' app:process-orders-file]  116.67ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:23:30 Running ['artisan' app:process-orders-file]  116.86ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:24:30 Running ['artisan' app:process-orders-file]  112.14ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:25:30 Running ['artisan' app:process-orders-file]  111.82ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:26:30 Running ['artisan' app:process-orders-file]  110.92ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:27:30 Running ['artisan' app:process-orders-file]  117.85ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:28:30 Running ['artisan' app:process-orders-file]  115.01ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:29:30 Running ['artisan' app:process-orders-file]  114.12ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:30:30 Running ['artisan' app:process-orders-file]  110.85ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:31:30 Running ['artisan' app:process-orders-file]  109.66ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:32:32 Running ['artisan' app:process-orders-file]  156.16ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:33:30 Running ['artisan' app:process-orders-file]  125.03ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:34:30 Running ['artisan' app:process-orders-file]  118.31ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:35:30 Running ['artisan' app:process-orders-file]  107.49ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:36:30 Running ['artisan' app:process-orders-file]  107.75ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:37:30 Running ['artisan' app:process-orders-file]  109.76ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:38:30 Running ['artisan' app:process-orders-file]  110.37ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:39:30 Running ['artisan' app:process-orders-file]  120.02ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:40:30 Running ['artisan' app:process-orders-file]  116.88ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:41:30 Running ['artisan' app:process-orders-file]  196.78ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:42:30 Running ['artisan' app:process-orders-file]  115.54ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:43:30 Running ['artisan' app:process-orders-file]  126.60ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:44:30 Running ['artisan' app:process-orders-file]  107.17ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:45:30 Running ['artisan' app:process-orders-file]  112.33ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:46:30 Running ['artisan' app:process-orders-file]  114.09ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:47:30 Running ['artisan' app:process-orders-file]  112.33ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:48:30 Running ['artisan' app:process-orders-file]  119.81ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:49:30 Running ['artisan' app:process-orders-file]  113.82ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:50:30 Running ['artisan' app:process-orders-file]  114.85ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:51:30 Running ['artisan' app:process-orders-file]  119.74ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:52:30 Running ['artisan' app:process-orders-file]  112.56ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:53:30 Running ['artisan' app:process-orders-file]  111.34ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:54:30 Running ['artisan' app:process-orders-file]  113.15ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:55:30 Running ['artisan' app:process-orders-file]  111.24ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:56:30 Running ['artisan' app:process-orders-file]  108.96ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:57:30 Running ['artisan' app:process-orders-file]  115.47ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:58:30 Running ['artisan' app:process-orders-file]  109.70ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 18:59:30 Running ['artisan' app:process-orders-file]  117.88ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:00:30 Running ['artisan' inspire] .............. 109.75ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' inspire > '/dev/null' 2>&1  
+  2024-12-11 19:00:30 Running ['artisan' app:process-orders-file]  100.86ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:01:30 Running ['artisan' app:process-orders-file]  124.17ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:02:30 Running ['artisan' app:process-orders-file]  114.08ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:03:30 Running ['artisan' app:process-orders-file]  113.26ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:04:30 Running ['artisan' app:process-orders-file]  111.73ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:05:30 Running ['artisan' app:process-orders-file]  108.87ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:06:30 Running ['artisan' app:process-orders-file]  110.89ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:07:30 Running ['artisan' app:process-orders-file]  114.78ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:08:30 Running ['artisan' app:process-orders-file]  112.87ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:09:30 Running ['artisan' app:process-orders-file]  109.20ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:10:30 Running ['artisan' app:process-orders-file]  115.88ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:11:30 Running ['artisan' app:process-orders-file]  109.61ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:12:30 Running ['artisan' app:process-orders-file]  120.94ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:13:30 Running ['artisan' app:process-orders-file]  133.63ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:14:30 Running ['artisan' app:process-orders-file]  115.80ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:15:30 Running ['artisan' app:process-orders-file]  130.52ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:16:30 Running ['artisan' app:process-orders-file]  115.72ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:17:30 Running ['artisan' app:process-orders-file]  111.15ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:18:30 Running ['artisan' app:process-orders-file]  116.56ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:19:30 Running ['artisan' app:process-orders-file]  120.00ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:20:30 Running ['artisan' app:process-orders-file]  113.08ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:21:30 Running ['artisan' app:process-orders-file]  117.43ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:22:30 Running ['artisan' app:process-orders-file]  116.55ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:23:30 Running ['artisan' app:process-orders-file]  111.87ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:24:30 Running ['artisan' app:process-orders-file]  113.77ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:25:30 Running ['artisan' app:process-orders-file]  114.24ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:26:30 Running ['artisan' app:process-orders-file]  114.51ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:27:30 Running ['artisan' app:process-orders-file]  111.71ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:28:30 Running ['artisan' app:process-orders-file]  117.54ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:29:30 Running ['artisan' app:process-orders-file]  115.90ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:30:30 Running ['artisan' app:process-orders-file]  118.11ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:31:30 Running ['artisan' app:process-orders-file]  120.04ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:32:30 Running ['artisan' app:process-orders-file]  111.86ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:33:30 Running ['artisan' app:process-orders-file]  107.72ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:34:30 Running ['artisan' app:process-orders-file]  107.97ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:35:30 Running ['artisan' app:process-orders-file]  114.02ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:36:30 Running ['artisan' app:process-orders-file]  112.61ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:37:30 Running ['artisan' app:process-orders-file]  115.07ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:38:30 Running ['artisan' app:process-orders-file]  114.02ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:39:30 Running ['artisan' app:process-orders-file]  114.26ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:40:30 Running ['artisan' app:process-orders-file]  112.05ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:41:30 Running ['artisan' app:process-orders-file]  111.99ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:42:30 Running ['artisan' app:process-orders-file]  106.01ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:43:30 Running ['artisan' app:process-orders-file]  115.15ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:44:30 Running ['artisan' app:process-orders-file]  111.19ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:45:30 Running ['artisan' app:process-orders-file]  109.05ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:46:30 Running ['artisan' app:process-orders-file]  106.86ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:47:30 Running ['artisan' app:process-orders-file]  107.70ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:48:30 Running ['artisan' app:process-orders-file]  109.41ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:49:30 Running ['artisan' app:process-orders-file]  108.30ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:50:30 Running ['artisan' app:process-orders-file]  115.27ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:51:30 Running ['artisan' app:process-orders-file]  109.37ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:52:30 Running ['artisan' app:process-orders-file]  114.59ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:53:30 Running ['artisan' app:process-orders-file]  111.72ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:54:30 Running ['artisan' app:process-orders-file]  121.28ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:55:30 Running ['artisan' app:process-orders-file]  111.35ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:56:30 Running ['artisan' app:process-orders-file]  107.44ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:57:30 Running ['artisan' app:process-orders-file]  107.53ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:58:30 Running ['artisan' app:process-orders-file]  109.04ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 19:59:30 Running ['artisan' app:process-orders-file]  115.21ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:00:30 Running ['artisan' inspire] .............. 108.20ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' inspire > '/dev/null' 2>&1  
+  2024-12-11 20:00:30 Running ['artisan' app:process-orders-file]  103.12ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:01:30 Running ['artisan' app:process-orders-file]  108.57ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:02:30 Running ['artisan' app:process-orders-file]  110.52ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:03:30 Running ['artisan' app:process-orders-file]  109.85ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:04:30 Running ['artisan' app:process-orders-file]  108.90ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:05:30 Running ['artisan' app:process-orders-file]  106.78ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:06:30 Running ['artisan' app:process-orders-file]  116.35ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:07:30 Running ['artisan' app:process-orders-file]  128.27ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:08:30 Running ['artisan' app:process-orders-file]  123.38ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:09:30 Running ['artisan' app:process-orders-file]  117.52ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:10:30 Running ['artisan' app:process-orders-file]  124.26ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:11:30 Running ['artisan' app:process-orders-file]  118.26ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:12:30 Running ['artisan' app:process-orders-file]  116.27ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:13:30 Running ['artisan' app:process-orders-file]  108.05ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:14:30 Running ['artisan' app:process-orders-file]  122.43ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:15:30 Running ['artisan' app:process-orders-file]  125.91ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:16:30 Running ['artisan' app:process-orders-file]  113.07ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:17:30 Running ['artisan' app:process-orders-file]  122.64ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:18:30 Running ['artisan' app:process-orders-file]  123.09ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:19:30 Running ['artisan' app:process-orders-file]  153.16ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:20:30 Running ['artisan' app:process-orders-file]  130.40ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:21:30 Running ['artisan' app:process-orders-file]  118.37ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:22:30 Running ['artisan' app:process-orders-file]  118.37ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:23:30 Running ['artisan' app:process-orders-file]  111.24ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:24:30 Running ['artisan' app:process-orders-file]  126.46ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:25:30 Running ['artisan' app:process-orders-file]  119.14ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:26:30 Running ['artisan' app:process-orders-file]  122.69ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:27:30 Running ['artisan' app:process-orders-file]  134.73ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:28:30 Running ['artisan' app:process-orders-file]  119.23ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:29:30 Running ['artisan' app:process-orders-file]  122.58ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:30:30 Running ['artisan' app:process-orders-file]  117.97ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:31:30 Running ['artisan' app:process-orders-file]  116.84ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:32:30 Running ['artisan' app:process-orders-file]  117.84ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:33:30 Running ['artisan' app:process-orders-file]  122.00ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:34:30 Running ['artisan' app:process-orders-file]  120.64ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:35:30 Running ['artisan' app:process-orders-file]  113.63ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:36:30 Running ['artisan' app:process-orders-file]  119.16ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:37:30 Running ['artisan' app:process-orders-file]  120.79ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:38:30 Running ['artisan' app:process-orders-file]  114.21ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:39:30 Running ['artisan' app:process-orders-file]  116.26ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:40:30 Running ['artisan' app:process-orders-file]  123.19ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:41:30 Running ['artisan' app:process-orders-file]  117.56ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:42:30 Running ['artisan' app:process-orders-file]  118.51ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:43:30 Running ['artisan' app:process-orders-file]  132.62ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:44:30 Running ['artisan' app:process-orders-file]  118.34ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:45:30 Running ['artisan' app:process-orders-file]  123.87ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:46:30 Running ['artisan' app:process-orders-file]  142.17ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:47:30 Running ['artisan' app:process-orders-file]  115.31ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:48:30 Running ['artisan' app:process-orders-file]  145.83ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:49:30 Running ['artisan' app:process-orders-file]  148.94ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:50:34 Running ['artisan' app:process-orders-file] .... 1s DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:51:30 Running ['artisan' app:process-orders-file]  132.84ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:52:30 Running ['artisan' app:process-orders-file]  117.74ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:53:30 Running ['artisan' app:process-orders-file]  114.44ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:54:30 Running ['artisan' app:process-orders-file]  121.49ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:55:30 Running ['artisan' app:process-orders-file]  123.52ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:56:30 Running ['artisan' app:process-orders-file]  112.07ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:57:30 Running ['artisan' app:process-orders-file]  126.87ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:58:30 Running ['artisan' app:process-orders-file]  117.12ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 20:59:30 Running ['artisan' app:process-orders-file]  115.56ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:00:30 Running ['artisan' inspire] .............. 117.05ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' inspire > '/dev/null' 2>&1  
+  2024-12-11 21:00:30 Running ['artisan' app:process-orders-file]  104.75ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:01:30 Running ['artisan' app:process-orders-file]  119.35ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:02:30 Running ['artisan' app:process-orders-file]  124.72ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:03:30 Running ['artisan' app:process-orders-file]  119.49ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:04:30 Running ['artisan' app:process-orders-file]  115.85ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:05:30 Running ['artisan' app:process-orders-file]  120.27ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:06:30 Running ['artisan' app:process-orders-file]  112.61ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:07:30 Running ['artisan' app:process-orders-file]  112.89ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:08:30 Running ['artisan' app:process-orders-file]  114.78ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:09:30 Running ['artisan' app:process-orders-file]  132.70ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:10:30 Running ['artisan' app:process-orders-file]  120.78ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:11:30 Running ['artisan' app:process-orders-file]  133.03ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:12:30 Running ['artisan' app:process-orders-file]  126.03ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:13:30 Running ['artisan' app:process-orders-file]  120.12ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:14:30 Running ['artisan' app:process-orders-file]  126.71ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:15:30 Running ['artisan' app:process-orders-file]  116.10ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:16:30 Running ['artisan' app:process-orders-file]  119.25ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:17:30 Running ['artisan' app:process-orders-file]  119.20ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:18:30 Running ['artisan' app:process-orders-file]  111.09ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:19:30 Running ['artisan' app:process-orders-file]  117.03ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:20:30 Running ['artisan' app:process-orders-file]  119.86ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:21:30 Running ['artisan' app:process-orders-file]  109.33ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:22:30 Running ['artisan' app:process-orders-file]  113.45ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:23:30 Running ['artisan' app:process-orders-file]  111.61ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:24:30 Running ['artisan' app:process-orders-file]  117.72ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:25:30 Running ['artisan' app:process-orders-file]  120.53ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:26:30 Running ['artisan' app:process-orders-file]  117.60ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:27:30 Running ['artisan' app:process-orders-file]  118.73ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:28:30 Running ['artisan' app:process-orders-file]  120.01ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:29:30 Running ['artisan' app:process-orders-file]  111.71ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:30:30 Running ['artisan' app:process-orders-file]  109.38ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:31:30 Running ['artisan' app:process-orders-file]  115.85ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:32:30 Running ['artisan' app:process-orders-file]  118.18ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:33:30 Running ['artisan' app:process-orders-file]  113.79ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:34:30 Running ['artisan' app:process-orders-file]  110.92ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:35:30 Running ['artisan' app:process-orders-file]  115.58ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:36:30 Running ['artisan' app:process-orders-file]  120.88ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:37:30 Running ['artisan' app:process-orders-file]  112.37ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:38:30 Running ['artisan' app:process-orders-file]  117.25ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:39:30 Running ['artisan' app:process-orders-file]  108.24ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:40:30 Running ['artisan' app:process-orders-file]  116.39ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:41:30 Running ['artisan' app:process-orders-file]  113.21ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:42:30 Running ['artisan' app:process-orders-file]  114.58ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:43:30 Running ['artisan' app:process-orders-file]  112.32ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:44:30 Running ['artisan' app:process-orders-file]  112.39ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:45:30 Running ['artisan' app:process-orders-file]  114.46ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:46:30 Running ['artisan' app:process-orders-file]  115.04ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:47:30 Running ['artisan' app:process-orders-file]  112.27ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:48:30 Running ['artisan' app:process-orders-file]  111.85ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:49:30 Running ['artisan' app:process-orders-file]  112.06ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:50:30 Running ['artisan' app:process-orders-file]  111.78ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:51:30 Running ['artisan' app:process-orders-file]  109.45ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:52:30 Running ['artisan' app:process-orders-file]  121.45ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:53:30 Running ['artisan' app:process-orders-file]  135.70ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:54:30 Running ['artisan' app:process-orders-file]  140.07ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:55:30 Running ['artisan' app:process-orders-file]  155.77ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:56:30 Running ['artisan' app:process-orders-file]  119.50ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:57:30 Running ['artisan' app:process-orders-file]  113.51ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:58:30 Running ['artisan' app:process-orders-file]  113.71ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 21:59:30 Running ['artisan' app:process-orders-file]  124.26ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:00:30 Running ['artisan' inspire] .............. 116.20ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' inspire > '/dev/null' 2>&1  
+  2024-12-11 22:00:30 Running ['artisan' app:process-orders-file]  100.85ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:01:30 Running ['artisan' app:process-orders-file]  132.44ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:02:30 Running ['artisan' app:process-orders-file]  111.86ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:03:30 Running ['artisan' app:process-orders-file]  120.43ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:04:30 Running ['artisan' app:process-orders-file]  176.07ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:05:30 Running ['artisan' app:process-orders-file]  116.34ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:06:30 Running ['artisan' app:process-orders-file]  123.03ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:07:30 Running ['artisan' app:process-orders-file]  112.62ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:08:30 Running ['artisan' app:process-orders-file]  119.07ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:09:30 Running ['artisan' app:process-orders-file]  126.12ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:10:30 Running ['artisan' app:process-orders-file]  112.91ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:11:31 Running ['artisan' app:process-orders-file]  145.39ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:12:30 Running ['artisan' app:process-orders-file]  117.32ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:13:30 Running ['artisan' app:process-orders-file]  154.91ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:14:30 Running ['artisan' app:process-orders-file]  136.28ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:15:30 Running ['artisan' app:process-orders-file]  256.94ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:16:30 Running ['artisan' app:process-orders-file]  120.52ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:17:30 Running ['artisan' app:process-orders-file]  113.84ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:18:30 Running ['artisan' app:process-orders-file]  121.47ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:19:30 Running ['artisan' app:process-orders-file]  117.95ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:20:30 Running ['artisan' app:process-orders-file]  115.08ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:21:31 Running ['artisan' app:process-orders-file]  134.26ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:22:30 Running ['artisan' app:process-orders-file]  132.70ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:23:30 Running ['artisan' app:process-orders-file]  115.65ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:24:30 Running ['artisan' app:process-orders-file]  120.66ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:25:30 Running ['artisan' app:process-orders-file]  112.51ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:26:30 Running ['artisan' app:process-orders-file]  116.94ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:27:30 Running ['artisan' app:process-orders-file]  116.63ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:28:30 Running ['artisan' app:process-orders-file]  118.83ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:29:30 Running ['artisan' app:process-orders-file]  113.35ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:30:30 Running ['artisan' app:process-orders-file]  109.45ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:31:30 Running ['artisan' app:process-orders-file]  108.18ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:32:30 Running ['artisan' app:process-orders-file]  121.45ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:33:30 Running ['artisan' app:process-orders-file]  136.82ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:34:30 Running ['artisan' app:process-orders-file]  114.13ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:35:30 Running ['artisan' app:process-orders-file]  115.96ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:36:31 Running ['artisan' app:process-orders-file]  124.91ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:37:30 Running ['artisan' app:process-orders-file]  113.46ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:38:30 Running ['artisan' app:process-orders-file]  116.81ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:39:30 Running ['artisan' app:process-orders-file]  117.80ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:40:30 Running ['artisan' app:process-orders-file]  115.74ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:41:30 Running ['artisan' app:process-orders-file]  135.32ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:42:30 Running ['artisan' app:process-orders-file]  117.21ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:43:30 Running ['artisan' app:process-orders-file]  125.20ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:44:30 Running ['artisan' app:process-orders-file]  121.94ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:45:30 Running ['artisan' app:process-orders-file]  111.76ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:46:30 Running ['artisan' app:process-orders-file]  119.27ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:47:30 Running ['artisan' app:process-orders-file]  114.19ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:48:30 Running ['artisan' app:process-orders-file]  115.75ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:49:30 Running ['artisan' app:process-orders-file]  117.05ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:50:30 Running ['artisan' app:process-orders-file]  119.50ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:51:30 Running ['artisan' app:process-orders-file]  120.14ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:52:30 Running ['artisan' app:process-orders-file]  121.10ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:53:30 Running ['artisan' app:process-orders-file]  122.06ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:54:30 Running ['artisan' app:process-orders-file]  135.16ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:55:30 Running ['artisan' app:process-orders-file]  121.46ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:56:30 Running ['artisan' app:process-orders-file]  118.95ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:57:30 Running ['artisan' app:process-orders-file]  117.78ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:58:30 Running ['artisan' app:process-orders-file]  115.86ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 22:59:30 Running ['artisan' app:process-orders-file]  133.76ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 23:00:30 Running ['artisan' inspire] .............. 126.05ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' inspire > '/dev/null' 2>&1  
+  2024-12-11 23:00:30 Running ['artisan' app:process-orders-file]  105.31ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 23:01:30 Running ['artisan' app:process-orders-file]  121.18ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 23:02:30 Running ['artisan' app:process-orders-file]  127.61ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 23:03:30 Running ['artisan' app:process-orders-file]  114.65ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 23:04:30 Running ['artisan' app:process-orders-file]  119.11ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 23:05:30 Running ['artisan' app:process-orders-file]  117.21ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 23:06:30 Running ['artisan' app:process-orders-file]  111.78ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 23:07:30 Running ['artisan' app:process-orders-file]  113.80ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  
+
+
+  2024-12-11 23:08:30 Running ['artisan' app:process-orders-file]  113.27ms DONE
+  ⇂ '/opt/homebrew/Cellar/php@8.4/8.4.0_1/bin/php' 'artisan' app:process-orders-file > '/dev/null' 2>&1  

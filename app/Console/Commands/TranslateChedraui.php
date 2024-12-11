@@ -60,7 +60,7 @@ class TranslateChedraui extends Command
                 $outputData[] = $line1;
                 $previousOrder = $currentOrder;
             }
-            
+
             $priceFormatted = $this->formatPrice($columns[10]);
 
             $line2 =
